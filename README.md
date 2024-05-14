@@ -1,6 +1,3 @@
-Certainly! Here's a structured README file for your repository:
-
----
 
 # Exploratory Data Analysis of Bank Customers
 
